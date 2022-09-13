@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Prashant-502/website3#readme",
   "dependencies": {
     "compression": "^1.7.4",
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "known-css-properties": "^0.25.0"
   }
 }
