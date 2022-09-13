@@ -11059,7 +11059,11 @@ a.text-dark:focus {
   list-style-type: none;
 }
 
-.first {
+.autoContent {
   content-visibility: auto;
   contain-intrinsic-size: 1px 1000px;
+}
+
+.hiddenContent {
+  content-visibility: hidden;
 }
