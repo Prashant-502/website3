@@ -9866,10 +9866,3 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 
-
-.first{
-
-  content-visibility: auto;
-  contain-intrinsic-size: 1px 5000px;
-
-}
